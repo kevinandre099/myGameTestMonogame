@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/KEVIN/source/repos/Seguimiento/Content/arial.spritefont","C:/Users/KEVIN/source/repos/Seguimiento/Content/bin/Windows/arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70673,0,5720641
+"C:/Users/KEVIN/source/repos/Seguimiento/Content/casa_homero.jpg","C:/Users/KEVIN/source/repos/Seguimiento/Content/bin/Windows/casa_homero.xnb","TextureProcessor","Texture2DContent",75611,2069845,0,8250647
+"C:/Users/KEVIN/source/repos/Seguimiento/Content/dona_1.png","C:/Users/KEVIN/source/repos/Seguimiento/Content/bin/Windows/dona_1.xnb","TextureProcessor","Texture2DContent",194166,1246253,0,1210067
+"C:/Users/KEVIN/source/repos/Seguimiento/Content/efectoS.mp3","C:/Users/KEVIN/source/repos/Seguimiento/Content/bin/Windows/efectoS.xnb","SoundEffectProcessor","SoundEffectContent",64970,700709,1,525402
+"C:/Users/KEVIN/source/repos/Seguimiento/Content/gameOver.jpg","C:/Users/KEVIN/source/repos/Seguimiento/Content/bin/Windows/gameOver.xnb","TextureProcessor","Texture2DContent",41455,9216085,0,5785648
+"C:/Users/KEVIN/source/repos/Seguimiento/Content/homero_1.png","C:/Users/KEVIN/source/repos/Seguimiento/Content/bin/Windows/homero_1.xnb","TextureProcessor","Texture2DContent",269593,2614141,0,2020156
+"C:/Users/KEVIN/source/repos/Seguimiento/Content/MyFond.spritefont","C:/Users/KEVIN/source/repos/Seguimiento/Content/bin/Windows/MyFond.xnb","LocalizedFontProcessor","SpriteFontContent",2426,939,0,1110084
+"C:/Users/KEVIN/source/repos/Seguimiento/Content/television-simpsons.mp3","C:/Users/KEVIN/source/repos/Seguimiento/Content/bin/Windows/television-simpsons.xnb","SongProcessor","SongContent",1514292,137,2,826933
